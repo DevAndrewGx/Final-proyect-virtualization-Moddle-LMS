@@ -11,3 +11,5 @@ Moddle LMS
 ## Justificación 
 
 Se seleccionó Moodle por ser una plataforma ampliamente utilizada en entornos educativos, con arquitectura cliente-servidor, soporte para contenedores Docker y facilidad de integración con herramientas de monitoreo.
+
+
